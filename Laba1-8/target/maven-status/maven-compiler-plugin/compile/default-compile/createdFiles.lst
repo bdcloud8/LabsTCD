@@ -1,0 +1,6 @@
+com\delivery\model\Parcel.class
+com\delivery\dao\ParcelDAO.class
+com\Main.class
+com\delivery\dao\AddressDAO.class
+com\delivery\model\Address.class
+com\delivery\config\DBConnection.class
